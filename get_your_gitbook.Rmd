@@ -1,5 +1,7 @@
 # Get your GitBook {#getgitbook}
 
+I have made a change here
+
 To get your GitBook, you should follow these steps:
 
 1. Go to <https://github.com/cjvanlissa/gitbook-demo>
